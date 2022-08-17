@@ -1,5 +1,8 @@
 # BOC Trip Lottery
 
+## Description
+Weighted lottery system hosted on a website for Brown Outing Club to run. Any Brown student can enter a lottery to go on a trip, but the lottery will be weighted according to factors like previous behavior (e.g. if they were a no show before, if they already got a trip) as well as other factors. An administrative page allows editors to change the website content and database data without code knowledge. 
+
 ## Setting Up
 #### Starting venv
 Mac: 
